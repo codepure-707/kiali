@@ -2084,10 +2084,10 @@
   resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.11.8.tgz#6b79032e760a0899cd4204710beede972a3a185f"
   integrity sha512-P1st0aksCrn9sGZhp8GMYwBnQsbvAWsZAX44oXNNvLHGqAOcoVxmjZiohstwQ7SqKnbR47akdNi+uleWD8+g6A==
 
-"@remix-run/router@1.17.1":
-  version "1.17.1"
-  resolved "https://registry.yarnpkg.com/@remix-run/router/-/router-1.17.1.tgz#bf93997beb81863fde042ebd05013a2618471362"
-  integrity sha512-mCOMec4BKd6BRGBZeSnGiIgwsbLGp3yhVqAD8H+PxiRNEHgDpZb8J1TnrSDlg97t0ySKMQJTHCWBCmBpSmkF6Q==
+"@remix-run/router@1.23.0":
+  version "1.23.0"
+  resolved "https://registry.yarnpkg.com/@remix-run/router/-/router-1.23.0.tgz#35390d0e7779626c026b11376da6789eb8389242"
+  integrity sha512-O3rHJzAQKamUz1fvE0Qaw0xSFqsA/yafi2iqeE0pvdFtCO1viYx8QL6f3Ln/aCCTLxs68SLf0KPM9eSeM8yBnA==
 
 "@rollup/plugin-babel@^5.2.0":
   version "5.3.1"
@@ -10447,14 +10447,14 @@ react-resize-detector@9.1.1:
   dependencies:
     lodash "^4.17.21"
 
-react-router-dom-v5-compat@^6.11.2:
-  version "6.24.1"
-  resolved "https://registry.yarnpkg.com/react-router-dom-v5-compat/-/react-router-dom-v5-compat-6.24.1.tgz#1b5f58c8a62389af11e30fbea6548eba944e12f5"
-  integrity sha512-RnK/NtweSP2NOjYGr8+HlaICOzPL/L2phmEyL3We8r589UZY+HuM706YR4eAHDQ3mWBc9Bg+JAkRzQghXA0caA==
+react-router-dom-v5-compat@^6.30.0:
+  version "6.30.0"
+  resolved "https://registry.yarnpkg.com/react-router-dom-v5-compat/-/react-router-dom-v5-compat-6.30.0.tgz#d089e7b8dc964ade2480467aa77381647b10a78b"
+  integrity sha512-MAVRASbdQ3+ZOTPPjAa7jKcF0F9LkHWKB/iib3hf+jzzIazL4GEpMDDdTswCsqRQNU+zNnT3qD0WiNbzJ6ncPw==
   dependencies:
-    "@remix-run/router" "1.17.1"
+    "@remix-run/router" "1.23.0"
     history "^5.3.0"
-    react-router "6.24.1"
+    react-router "6.30.0"
 
 react-router-dom@5.3.x:
   version "5.3.4"
@@ -10484,12 +10484,12 @@ react-router@5.3.4, react-router@5.3.x:
     tiny-invariant "^1.0.2"
     tiny-warning "^1.0.0"
 
-react-router@6.24.1:
-  version "6.24.1"
-  resolved "https://registry.yarnpkg.com/react-router/-/react-router-6.24.1.tgz#5a3bbba0000afba68d42915456ca4c806f37a7de"
-  integrity sha512-PTXFXGK2pyXpHzVo3rR9H7ip4lSPZZc0bHG5CARmj65fTT6qG7sTngmb6lcYu1gf3y/8KxORoy9yn59pGpCnpg==
+react-router@6.30.0:
+  version "6.30.0"
+  resolved "https://registry.yarnpkg.com/react-router/-/react-router-6.30.0.tgz#9789d775e63bc0df60f39ced77c8c41f1e01ff90"
+  integrity sha512-D3X8FyH9nBcTSHGdEKurK7r8OYE1kKFn3d/CF+CoxbSHkxU7o37+Uh7eAHRXr6k2tSExXYO++07PeXJtA/dEhQ==
   dependencies:
-    "@remix-run/router" "1.17.1"
+    "@remix-run/router" "1.23.0"
 
 react-scripts@^5.0.1:
   version "5.0.1"
